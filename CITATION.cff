@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Synaptic Intelligence Engine (SIE): A Self-Evolving Cognitive Data Architecture with Usage-Weighted Synaptic Entity Connections and AI-Driven Governance"
+message: "If you use or reference this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Gaur"
+    given-names: "Siddhartha"
+date-released: "2026-06-20"
+license: CC-BY-4.0
+abstract: >
+  SIE is a proposed cognitive data architecture where every data entity carries its own
+  intelligence through four concentric layers (Core Entity, Metadata, Context, Guardrail),
+  entities are connected via usage-telemetry-weighted Synaptic Connections governed by a
+  Hebbian strengthening mechanism, each connection carries a Micro-AI that feeds back to
+  connected entities, and a Central Governance Engine continuously restructures the network.
+  SIE is proposed as a replacement for the Medallion Architecture for AI-first data platforms.
+keywords:
+  - data architecture
+  - cognitive data architecture
+  - AI-governed data
+  - Hebbian learning
+  - data mesh
+  - self-evolving systems
+  - knowledge graphs
+  - enterprise AI
+  - data engineering
